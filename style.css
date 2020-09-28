@@ -4,6 +4,7 @@ body {
 .judul h2 {
     font-family: verdana;
     color: white;
+    margin-left: 20px;
 }
 .judul span {
     color: red;
@@ -11,7 +12,7 @@ body {
 }
 .button {
     padding-left: 1100px;
-    margin-top: -20px;
+    margin-top: -40px;
     margin-bottom: 50px;
 }
 .buttonadd {
