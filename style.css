@@ -5,3 +5,11 @@ body {
     font-family: verdana;
     color: white;
 }
+table {
+    background-color: darkgrey;
+    font-family: geotgia;
+}
+img {
+    width: 200px;
+    height: auto;
+}
