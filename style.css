@@ -5,6 +5,15 @@ body {
     font-family: verdana;
     color: white;
 }
+.judul span {
+    color: red;
+    margin-left: 20px;
+}
+#button {
+    padding-left: 800px;
+    margin-top: -50px;
+    margin-bottom: 50px;
+}
 .buttonadd {
     background-color: red;
     color: white;
@@ -13,13 +22,35 @@ body {
     padding-top: 5px;
     padding-right: 10px;
     padding-bottom: 5px;
-    margin-bottom: 15px;
 }
 .produk table {
     background-color: darkgrey;
-    font-family: geotgia;
+    font-family: georgia;
+    padding: 10px 10px 0px 10px;
 }
 .produk img {
-    width: 150px;
-    height: 200px;
+    width: 200px;
+    height: 250px;
+}
+.produk button {
+    background-color: red;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    width: 200px;
+}
+.produk span {
+    font-family: arial;
+    color: white;
+    margin-bottom: -5px;
+}
+.produk h6 {
+    color: grey;
+    font-family: georgia;
+    padding-left: 150px;
+    margin-top: -15px;
+}
+.produk h5 {
+    color: red;
+    font-family: verdana;
+    margin-bottom: -5px;
 }
