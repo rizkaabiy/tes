@@ -9,9 +9,9 @@ body {
     color: red;
     margin-left: 20px;
 }
-#button {
-    padding-left: 800px;
-    margin-top: -50px;
+.button {
+    padding-left: 1100px;
+    margin-top: -20px;
     margin-bottom: 50px;
 }
 .buttonadd {
@@ -22,36 +22,51 @@ body {
     padding-top: 5px;
     padding-right: 10px;
     padding-bottom: 5px;
+    border-radius: 5px;
 }
 .produk table {
     background-color: darkgrey;
     font-family: georgia;
-    padding: 10px 10px 0px 10px;
+    border-radius: 10px;
     display: inline-block;
+    margin-left: 50px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
 }
 .produk img {
     width: 200px;
     height: 250px;
+    border-radius: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 10px;
 }
-.produk button {
-    background-color: red;
-    padding-bottom: 2px;
-    padding-top: 2px;
-    width: 200px;
-}
-.produk span {
+.produk h4 {
     font-family: arial;
     color: white;
-    margin-bottom: -5px;
+    margin-top: -45px;
+    margin-left: 14px;
+    font-style: oblique;
 }
 .produk h6 {
     color: grey;
     font-family: georgia;
-    padding-left: 150px;
-    margin-top: -15px;
+    margin-left: 170px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .produk h5 {
     color: red;
-    font-family: verdana;
-    margin-bottom: -5px;
+    font-family: numeric;
+    margin-left: 14px;
+    margin-top: -15px;
+}
+.produk button {
+    background-color: red;
+    display: inline-block;
+    border-radius: 5px;
+    width: 200px;
+    margin-bottom: 7px;
+    margin-top: -49px;
 }
